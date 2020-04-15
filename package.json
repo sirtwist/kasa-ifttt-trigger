@@ -1,0 +1,10 @@
+{
+  "name": "kasa-ifttt-trigger",
+  "version": "1.0.0",
+  "description": "Trigger IFTTT webhook when Kasa events happen",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "tplink-smarthome-api": "^1.2.0"
+  }
+}
